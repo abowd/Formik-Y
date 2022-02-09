@@ -1,0 +1,32 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.gradient-custom-2 {
+    background: #a1c4fd;
+    background: -webkit-linear-gradient(to right, rgba(161, 196, 253, 1), rgba(194, 233, 251, 1));
+    background: linear-gradient(to right, rgba(161, 196, 253, 1), rgba(194, 233, 251, 1));
+}
+
+
+.form-control {
+   border-radius:0px !important;
+}
+.bg-info {
+    background-color: #3f51b5 !important;
+ color:#fff;
+}
+.text-danger {
+    color: #cd7b83 !important;
+}
